@@ -1,2 +1,0 @@
-<?java
-javainfo1111
